@@ -1,0 +1,162 @@
+.ignore
+Advanced Java Folding
+AsciiDoc
+BashSupport
+Checkstyle-IDEA
+CodeGlance
+Codota
+Copyright
+CPU Usage Indicator
+FindBugs-IDEA
+Floobits
+GitAlso
+google-java-format
+Gradle Dependencies Formatter
+Gradle Dependencies Helper
+Grammar Kit
+Grep Console
+HasteIt
+java Decompiler IntelliJ Plugin
+Jenkinsfile IDEA Plugin
+Jira Integration
+Kotlin
+Maven Helper
+Nyan Progress Bar
+Psi Viewer
+Shifter
+TestMe
+UnitVisualizer
+
+Android support
+Angular JS
+Ant Support
+Application Servers Viewer
+ASP
+AspectJ Support
+Bytecode Viewer
+CFML Support
+Cloud Foundry Integration
+CloudBees Integration 
+CoffeScript
+Copyright
+Coverage
+CSS Support
+Cucumber for Groovy
+Cucumber for Java
+VSC Integration
+Database Tools and SQL
+dmServer Support
+Docker Integration
+DSM Analysis
+Elipse Integration
+Editor Config
+Emma
+Flash/Flex Support
+FreeMarker Support
+Geronimo Support
+Gherkin
+Git Integration
+GitHub
+GlassFish Integration
+Google App Engine
+Gradle
+Grails
+Groovy
+Guice
+GWT Support
+Haml
+Heroku Integration
+Hibernate Support
+HTML Tools
+HTTP Client
+l18n for Java
+IDE Settings Sync
+IntelliJ Configuration Script
+IntelliLang
+J2ME
+Java Bytecode Decompiler
+Java EE: Batch Applications
+Java EE: Bean Validation Support
+Java EE: Contexts and Dependency Injection
+Java EE: EJB, JPA, Servlets
+Java EE: Java Server Faces
+Java EE: JMS, JSON Processing, Concurrency, Transaction
+Java EE: RESTful Web Services(JAX-RS)
+Java EE: Web Services )(JAX-WS)
+Java EE: Websockets
+Java Server Pages(JSP) Integration
+Java Stream Debugger
+Java FX
+Javascript Debugger
+JavaScript Intention Power Pack
+javaScript Support
+JBoss Arquillian Support
+JBoss Drools Support
+JBoss Frameworks Base Support
+JBoss Integration
+JBoss jBPM
+JBoss Seam Pageflow Support
+JBoss Seam Pages Support
+JBoss Seam Support
+Jetty Integration
+JSR45 Integration
+JUnit
+Less support
+Markdown support
+Maven Integration
+Maven Integration Extension
+Mercurial Integration
+OpenShift Integration
+Osmorc
+Perfoce Integration
+Performance Testing
+Persistence Frameworks Support
+Playframework Support
+Plugin DevKit
+Properties Support
+Reactor Framework Support
+Refactor-X
+Remote Hosts Access
+Resin Integration
+Sass support
+Settings Repository
+Smali Support
+Spring AOP/@AspectJ
+Spring Batch
+Spring Boot
+Spring Data
+Spring Integration Patterns
+Spring MVC
+Spring OSGi
+Spring Security
+Spring Support
+Spring Webflow
+Spring Web Services
+Spring WebSocket
+Spy-js
+SSH Remote Run
+Struts 1.x
+Struts 2
+Stylus Support
+Subversion Integration
+Tapestry support
+Task Managment
+Terminal
+TestNG-J
+TFS
+Thymeleaf
+Time Tracking
+Tomcat and TomEE Integration
+tslint
+UI Designer
+UML Support
+Vaadin Support
+Velocity Support
+W3C Support
+WebLocig Integration
+WebSphere Integration
+WSL Support Framework
+XPathView + XSLT Support
+XSLT-Debugger
+YAML
+ZKM-Unscramble
